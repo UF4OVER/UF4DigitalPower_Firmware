@@ -1,4 +1,6 @@
-# UF4DigitalPower 下位机固件说明
+# UF4DigitalPower V5下位机固件说明
+
+# V6 NEW VERSION:[UF4UpperPower branch:UF4DP2_DEBUG](https://github.com/UF4DigitalPower/UF4DigitalPower)<br>
 
 硬件上位机链接: [UF4UpperPower](https://github.com/UF4DigitalPower/UF4UpperPower)<br>
 PC上位机链接: [F4CP](https://github.com/UF4DigitalPower/F4CP)<br>
